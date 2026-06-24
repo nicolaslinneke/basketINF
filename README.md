@@ -1,5 +1,5 @@
 # basketINF
-Sistema de armazenamento e organização de placares de jogos de basquete desenvelvido durante o curso técnico.
+Sistema de armazenamento e organização de placares de jogos de basquete desenvolvido durante o curso técnico.
 
 **Metodologia:** O sistema foi desenvolvido utilizando o **Visual Studio Code**, com as linguagens 
 de programação **PHP**, **HTML**, e **SQL**. O trabalho foi conduzido em etapas, incluindo a definição de requisitos, desenvolvimento do banco de dados, implementação do frontend e backend, e testes de funcionalidade.
