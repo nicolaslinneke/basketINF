@@ -8,6 +8,7 @@ Foram realizadas conversas com professores e coordenadores para entender as car�
 com relação a organização dos jogos. Um banco de dados relacional foi criado utilizando SQL, definindo tabelas para usuários, partidas, resultados e estatísticas. 
 
 **Frontend:** O design das interfaces foi realizado com HTML e PHP, focando na usabilidade e na experiência do usuário.
+
 **Backend:** A lógica de negócios foi programada em PHP, gerenciando a interação entre o banco de dados e as interfaces. 
 
 **Testes:** O sistema foi testado em ambiente local antes da implementação final.
