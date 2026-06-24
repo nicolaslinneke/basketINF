@@ -25,3 +25,10 @@ Campus Telêmaco Borba no dia 18/10/2024.
 **Desenvolvedor:** Nicolas Antonio Evangelista Linneke
 
 **Orientador:** Prof. Jailton Junior de Souza Coelho
+
+
+## Próximos Passos (Estudos em Python)
+Como atualmente estou focado em aprender e me especializar em **Python**, meus planos futuros para este sistema incluem:
+* Migrar o backend atual em PHP para Python (utilizando Flask ou Django).
+* Refatorar a estrutura do banco de dados.
+* Aplicar os novos conceitos de programação que estou estudando.
