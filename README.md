@@ -19,3 +19,8 @@ Este projeto foi apresentado no **VIII Seminário de Pesquisa, Extensão e Inova
 Campus Telêmaco Borba no dia 18/10/2024.
 
 ![Certificado de Apresentação](img/certificado-sepex.png)
+
+
+## Autores e Orientação
+**Desenvolvedor:** Nicolas Antonio Evangelista Linneke
+**Orientador:** Prof. Jailton Junior de Souza Coelho
