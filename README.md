@@ -23,4 +23,5 @@ Campus Telêmaco Borba no dia 18/10/2024.
 
 ## Autores e Orientação
 **Desenvolvedor:** Nicolas Antonio Evangelista Linneke
+
 **Orientador:** Prof. Jailton Junior de Souza Coelho
